@@ -1,0 +1,2218 @@
+01-12-2018 00:01:51:186 groupXX@127.0.1.1:35002 [INFO] : -- *** --> Server -- local node: [127.0.1.1,35002,groupXX@127.0.1.1:35002]
+01-12-2018 00:01:51:215 groupXX@127.0.1.1:35002 [INFO] : -- *** --> Server -- participants: [groupXX@127.0.1.1:35000, groupXX@127.0.1.1:35001, groupXX@127.0.1.1:35002, groupXX@127.0.1.1:35003, groupXX@127.0.1.1:35004]
+01-12-2018 00:01:51:438 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 1] TSAE session
+01-12-2018 00:01:51:976 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 2] TSAE session
+01-12-2018 00:01:52:163 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 3] TSAE session
+01-12-2018 00:01:52:292 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 4] TSAE session
+01-12-2018 00:02:11:414 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 5] TSAE session
+01-12-2018 00:02:11:511 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 6] TSAE session
+01-12-2018 00:02:11:609 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 7] TSAE session
+01-12-2018 00:02:11:727 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 8] TSAE session
+01-12-2018 00:02:31:413 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 9] TSAE session
+01-12-2018 00:02:31:515 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 10] TSAE session
+01-12-2018 00:02:31:611 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 11] TSAE session
+01-12-2018 00:02:31:704 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 12] TSAE session
+01-12-2018 00:02:51:414 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 13] TSAE session
+01-12-2018 00:02:51:507 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 14] TSAE session
+01-12-2018 00:02:51:618 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 15] TSAE session
+01-12-2018 00:02:51:626 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 16] TSAE session
+01-12-2018 00:03:11:412 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 17] TSAE session
+01-12-2018 00:03:11:419 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 18] TSAE session
+01-12-2018 00:03:11:508 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 19] TSAE session
+01-12-2018 00:03:11:596 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 20] TSAE session
+01-12-2018 00:03:31:415 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 21] TSAE session
+01-12-2018 00:03:31:510 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 22] TSAE session
+01-12-2018 00:03:31:517 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 23] TSAE session
+01-12-2018 00:03:31:616 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 24] TSAE session
+01-12-2018 00:03:51:415 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 25] TSAE session
+01-12-2018 00:03:51:500 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 26] TSAE session
+01-12-2018 00:03:51:589 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 27] TSAE session
+01-12-2018 00:03:51:594 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 28] TSAE session
+01-12-2018 00:04:11:412 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 29] TSAE session
+01-12-2018 00:04:11:500 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 30] TSAE session
+01-12-2018 00:04:11:509 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 31] TSAE session
+01-12-2018 00:04:11:600 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 32] TSAE session
+01-12-2018 00:04:31:413 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 33] TSAE session
+01-12-2018 00:04:31:416 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 34] TSAE session
+01-12-2018 00:04:31:505 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 35] TSAE session
+01-12-2018 00:04:31:595 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 36] TSAE session
+01-12-2018 00:04:41:118 groupXX@127.0.1.1:35002 [INFO] : [groupXX@127.0.1.1:35002] ADD recipe: ysgleetu
+01-12-2018 00:04:51:413 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 37] TSAE session
+01-12-2018 00:04:51:499 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 38] TSAE session
+01-12-2018 00:04:51:503 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 39] TSAE session
+01-12-2018 00:04:51:591 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 40] TSAE session
+01-12-2018 00:05:01:117 groupXX@127.0.1.1:35002 [INFO] : [groupXX@127.0.1.1:35002] ADD recipe: kbakxiky
+01-12-2018 00:05:11:413 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 41] TSAE session
+01-12-2018 00:05:11:499 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 42] TSAE session
+01-12-2018 00:05:11:588 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 43] TSAE session
+01-12-2018 00:05:11:684 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 44] TSAE session
+01-12-2018 00:05:31:414 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 45] TSAE session
+01-12-2018 00:05:31:499 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 46] TSAE session
+01-12-2018 00:05:31:587 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 47] TSAE session
+01-12-2018 00:05:31:675 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 48] TSAE session
+01-12-2018 00:05:41:117 groupXX@127.0.1.1:35002 [INFO] : [groupXX@127.0.1.1:35002] ADD recipe: yalyeihd
+01-12-2018 00:05:51:413 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 49] TSAE session
+01-12-2018 00:05:51:503 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 50] TSAE session
+01-12-2018 00:05:51:588 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 51] TSAE session
+01-12-2018 00:05:51:679 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 52] TSAE session
+01-12-2018 00:06:01:119 groupXX@127.0.1.1:35002 [INFO] : [groupXX@127.0.1.1:35002] ADD recipe: tcipemrq
+01-12-2018 00:06:11:412 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 53] TSAE session
+01-12-2018 00:06:11:495 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 54] TSAE session
+01-12-2018 00:06:11:582 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 55] TSAE session
+01-12-2018 00:06:11:668 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 56] TSAE session
+01-12-2018 00:06:21:117 groupXX@127.0.1.1:35002 [INFO] : [groupXX@127.0.1.1:35002] ADD recipe: sdljmdff
+01-12-2018 00:06:31:412 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 57] TSAE session
+01-12-2018 00:06:31:499 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 58] TSAE session
+01-12-2018 00:06:31:587 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 59] TSAE session
+01-12-2018 00:06:31:671 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 60] TSAE session
+01-12-2018 00:06:51:425 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 61] TSAE session
+01-12-2018 00:06:51:524 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 62] TSAE session
+01-12-2018 00:06:51:621 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 63] TSAE session
+01-12-2018 00:06:51:728 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 64] TSAE session
+01-12-2018 00:06:51:864 groupXX@127.0.1.1:35002 [INFO] : Server groupXX@127.0.1.1:35002 finishes Activity Simulation
+01-12-2018 00:06:52:088 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 1/36] sending partial result
+01-12-2018 00:06:52:101 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:06:52:104 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:06:52:108 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:06:52:111 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:06:57:173 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 2/36] sending partial result
+01-12-2018 00:06:57:175 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:06:57:178 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:06:57:180 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:06:57:185 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:07:02:193 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 3/36] sending partial result
+01-12-2018 00:07:02:195 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:07:02:198 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:07:02:200 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:07:02:201 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:07:07:207 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 4/36] sending partial result
+01-12-2018 00:07:07:209 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:07:07:211 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:07:07:213 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:07:07:215 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:07:11:413 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 65] TSAE session
+01-12-2018 00:07:11:503 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 66] TSAE session
+01-12-2018 00:07:11:594 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 67] TSAE session
+01-12-2018 00:07:11:691 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 68] TSAE session
+01-12-2018 00:07:12:219 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 5/36] sending partial result
+01-12-2018 00:07:12:222 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:07:12:225 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:07:12:227 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:07:12:230 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:07:17:241 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 6/36] sending partial result
+01-12-2018 00:07:17:243 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:07:17:245 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:07:17:247 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:07:17:249 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:07:22:253 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 7/36] sending partial result
+01-12-2018 00:07:22:255 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:07:22:257 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:07:22:259 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:07:22:260 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:07:27:270 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 8/36] sending partial result
+01-12-2018 00:07:27:273 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:07:27:276 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:07:27:278 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:07:27:279 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:07:31:453 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 69] TSAE session
+01-12-2018 00:07:31:547 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 70] TSAE session
+01-12-2018 00:07:31:640 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 71] TSAE session
+01-12-2018 00:07:31:736 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 72] TSAE session
+01-12-2018 00:07:32:283 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 9/36] sending partial result
+01-12-2018 00:07:32:287 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:07:32:289 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:07:32:291 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:07:32:293 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:07:37:297 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 10/36] sending partial result
+01-12-2018 00:07:37:299 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:07:37:300 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:07:37:302 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:07:37:304 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:07:42:308 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 11/36] sending partial result
+01-12-2018 00:07:42:311 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:07:42:314 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:07:42:316 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:07:42:318 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:07:47:321 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 12/36] sending partial result
+01-12-2018 00:07:47:324 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:07:47:327 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:07:47:329 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:07:47:331 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:07:51:413 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 73] TSAE session
+01-12-2018 00:07:51:500 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 74] TSAE session
+01-12-2018 00:07:51:583 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 75] TSAE session
+01-12-2018 00:07:51:677 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 76] TSAE session
+01-12-2018 00:07:52:334 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 13/36] sending partial result
+01-12-2018 00:07:52:336 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:07:52:339 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:07:52:341 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:07:52:342 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:07:57:348 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 14/36] sending partial result
+01-12-2018 00:07:57:351 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:07:57:353 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:07:57:355 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:07:57:357 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:08:02:360 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 15/36] sending partial result
+01-12-2018 00:08:02:363 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:08:02:365 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:08:02:367 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:08:02:369 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:08:07:372 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 16/36] sending partial result
+01-12-2018 00:08:07:375 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:08:07:377 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:08:07:380 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:08:07:381 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:08:11:412 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 77] TSAE session
+01-12-2018 00:08:11:495 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 78] TSAE session
+01-12-2018 00:08:11:581 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 79] TSAE session
+01-12-2018 00:08:11:673 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 80] TSAE session
+01-12-2018 00:08:12:385 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 17/36] sending partial result
+01-12-2018 00:08:12:387 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:08:12:389 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:08:12:391 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:08:12:394 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:08:17:399 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 18/36] sending partial result
+01-12-2018 00:08:17:402 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:08:17:404 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:08:17:406 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:08:17:408 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:08:22:411 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 19/36] sending partial result
+01-12-2018 00:08:22:413 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:08:22:415 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:08:22:417 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:08:22:419 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:08:27:431 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 20/36] sending partial result
+01-12-2018 00:08:27:433 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:08:27:435 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:08:27:437 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:08:27:439 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:08:31:412 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 81] TSAE session
+01-12-2018 00:08:31:499 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 82] TSAE session
+01-12-2018 00:08:31:590 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 83] TSAE session
+01-12-2018 00:08:31:707 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 84] TSAE session
+01-12-2018 00:08:32:444 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 21/36] sending partial result
+01-12-2018 00:08:32:446 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:08:32:448 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:08:32:450 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:08:32:452 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:08:37:462 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 22/36] sending partial result
+01-12-2018 00:08:37:464 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:08:37:466 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:08:37:469 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:08:37:471 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:08:42:476 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 23/36] sending partial result
+01-12-2018 00:08:42:478 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:08:42:481 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:08:42:483 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:08:42:485 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:08:47:490 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 24/36] sending partial result
+01-12-2018 00:08:47:492 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:08:47:494 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:08:47:495 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:08:47:497 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:08:51:417 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 85] TSAE session
+01-12-2018 00:08:51:503 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 86] TSAE session
+01-12-2018 00:08:51:589 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 87] TSAE session
+01-12-2018 00:08:51:683 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 88] TSAE session
+01-12-2018 00:08:52:500 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 25/36] sending partial result
+01-12-2018 00:08:52:503 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:08:52:505 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:08:52:507 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:08:52:508 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:08:57:512 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 26/36] sending partial result
+01-12-2018 00:08:57:514 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:08:57:516 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:08:57:517 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:08:57:519 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:09:02:524 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 27/36] sending partial result
+01-12-2018 00:09:02:526 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:09:02:529 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:09:02:530 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:09:02:532 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:09:07:536 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 28/36] sending partial result
+01-12-2018 00:09:07:539 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:09:07:541 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:09:07:543 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:09:07:545 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:09:11:412 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 89] TSAE session
+01-12-2018 00:09:11:495 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 90] TSAE session
+01-12-2018 00:09:11:584 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 91] TSAE session
+01-12-2018 00:09:11:668 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 92] TSAE session
+01-12-2018 00:09:12:548 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 29/36] sending partial result
+01-12-2018 00:09:12:550 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:09:12:552 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:09:12:554 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:09:12:556 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:09:17:561 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 30/36] sending partial result
+01-12-2018 00:09:17:563 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:09:17:565 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:09:17:567 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:09:17:569 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:09:22:574 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 31/36] sending partial result
+01-12-2018 00:09:22:576 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:09:22:578 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:09:22:580 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:09:22:582 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:09:27:585 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 32/36] sending partial result
+01-12-2018 00:09:27:588 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:09:27:590 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:09:27:592 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:09:27:593 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:09:31:413 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 93] TSAE session
+01-12-2018 00:09:31:495 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 94] TSAE session
+01-12-2018 00:09:31:580 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 95] TSAE session
+01-12-2018 00:09:31:663 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 96] TSAE session
+01-12-2018 00:09:32:599 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 33/36] sending partial result
+01-12-2018 00:09:32:601 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:09:32:604 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:09:32:605 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:09:32:607 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:09:37:614 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 34/36] sending partial result
+01-12-2018 00:09:37:617 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:09:37:619 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:09:37:621 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:09:37:623 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:09:42:628 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 35/36] sending partial result
+01-12-2018 00:09:42:630 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:09:42:633 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:09:42:635 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:09:42:636 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:09:47:641 groupXX@127.0.1.1:35002 [DEBUG] : ##### [iteration: 36/36] sending partial result
+01-12-2018 00:09:47:644 groupXX@127.0.1.1:35002 [TRACE] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:09:47:646 groupXX@127.0.1.1:35002 [TRACE] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:09:47:648 groupXX@127.0.1.1:35002 [TRACE] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:09:47:650 groupXX@127.0.1.1:35002 [TRACE] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:09:51:412 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 97] TSAE session
+01-12-2018 00:09:51:432 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 98] TSAE session
+01-12-2018 00:09:51:522 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 99] TSAE session
+01-12-2018 00:09:51:607 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 100] TSAE session
+01-12-2018 00:09:51:872 groupXX@127.0.1.1:35002 [INFO] : Server groupXX@127.0.1.1:35002 Ends Execution
+01-12-2018 00:09:55:657 groupXX@127.0.1.1:35002 [DEBUG] : {attkcdex=[attkcdex, Content--attkcdex, groupXX], bp^eirbs=[bp^eirbs, Content--bp^eirbs, groupXX], eryabsmo=[eryabsmo, Content--eryabsmo, groupXX], fcvqtcpc=[fcvqtcpc, Content--fcvqtcpc, groupXX], kbakxiky=[kbakxiky, Content--kbakxiky, groupXX], lfliwhor=[lfliwhor, Content--lfliwhor, groupXX], lyqalcqq=[lyqalcqq, Content--lyqalcqq, groupXX], mcundecu=[mcundecu, Content--mcundecu, groupXX], sdljmdff=[sdljmdff, Content--sdljmdff, groupXX], tcipemrq=[tcipemrq, Content--tcipemrq, groupXX], vujcxetc=[vujcxetc, Content--vujcxetc, groupXX], wwnefmws=[wwnefmws, Content--wwnefmws, groupXX], yalyeihd=[yalyeihd, Content--yalyeihd, groupXX], ysgleetu=[ysgleetu, Content--ysgleetu, groupXX]}
+01-12-2018 00:09:55:660 groupXX@127.0.1.1:35002 [DEBUG] : AddOperation [recipe=[ysgleetu, Content--ysgleetu, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+AddOperation [recipe=[kbakxiky, Content--kbakxiky, groupXX], timestamp=groupXX@127.0.1.1:35002:   1]
+AddOperation [recipe=[yalyeihd, Content--yalyeihd, groupXX], timestamp=groupXX@127.0.1.1:35002:   2]
+AddOperation [recipe=[tcipemrq, Content--tcipemrq, groupXX], timestamp=groupXX@127.0.1.1:35002:   3]
+AddOperation [recipe=[sdljmdff, Content--sdljmdff, groupXX], timestamp=groupXX@127.0.1.1:35002:   4]
+AddOperation [recipe=[mcundecu, Content--mcundecu, groupXX], timestamp=groupXX@127.0.1.1:35003:   0]
+RemoveOperation [recipeTitle=lyqalcqq, recipeTimestamp=groupXX@127.0.1.1:35001:   0, timestamp=groupXX@127.0.1.1:35000:   0]
+AddOperation [recipe=[bp^eirbs, Content--bp^eirbs, groupXX], timestamp=groupXX@127.0.1.1:35000:   1]
+AddOperation [recipe=[fcvqtcpc, Content--fcvqtcpc, groupXX], timestamp=groupXX@127.0.1.1:35000:   2]
+AddOperation [recipe=[lyqalcqq, Content--lyqalcqq, groupXX], timestamp=groupXX@127.0.1.1:35001:   0]
+RemoveOperation [recipeTitle=wwnefmws, recipeTimestamp=groupXX@127.0.1.1:35004:   0, timestamp=groupXX@127.0.1.1:35001:   1]
+AddOperation [recipe=[eryabsmo, Content--eryabsmo, groupXX], timestamp=groupXX@127.0.1.1:35001:   2]
+AddOperation [recipe=[lfliwhor, Content--lfliwhor, groupXX], timestamp=groupXX@127.0.1.1:35001:   3]
+AddOperation [recipe=[wwnefmws, Content--wwnefmws, groupXX], timestamp=groupXX@127.0.1.1:35004:   0]
+RemoveOperation [recipeTitle=eryabsmo, recipeTimestamp=groupXX@127.0.1.1:35001:   2, timestamp=groupXX@127.0.1.1:35004:   1]
+AddOperation [recipe=[vujcxetc, Content--vujcxetc, groupXX], timestamp=groupXX@127.0.1.1:35004:   2]
+AddOperation [recipe=[attkcdex, Content--attkcdex, groupXX], timestamp=groupXX@127.0.1.1:35004:   3]
+
+01-12-2018 00:09:55:662 groupXX@127.0.1.1:35002 [DEBUG] : Summary: groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+01-12-2018 00:09:55:664 groupXX@127.0.1.1:35002 [DEBUG] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   4
+groupXX@127.0.1.1:35003:   0
+groupXX@127.0.1.1:35000:   2
+groupXX@127.0.1.1:35001:   3
+groupXX@127.0.1.1:35004:   3
+
+groupXX@127.0.1.1:35003:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+groupXX@127.0.1.1:35004:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35003:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+groupXX@127.0.1.1:35004:   -1000
+
+
+01-12-2018 00:09:55:665 groupXX@127.0.1.1:35002 [INFO] : END

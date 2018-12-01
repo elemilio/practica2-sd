@@ -1,0 +1,31 @@
+29-11-2018 22:46:08:548 groupXX@127.0.1.1:35002 [INFO] : -- *** --> Server -- local node: [127.0.1.1,35002,groupXX@127.0.1.1:35002]
+29-11-2018 22:46:08:613 groupXX@127.0.1.1:35002 [INFO] : -- *** --> Server -- participants: [groupXX@127.0.1.1:35000, groupXX@127.0.1.1:35001, groupXX@127.0.1.1:35002]
+29-11-2018 22:46:08:831 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 1] TSAE session
+29-11-2018 22:46:09:077 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 2] TSAE session
+29-11-2018 22:46:28:827 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 3] TSAE session
+29-11-2018 22:46:28:966 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 4] TSAE session
+29-11-2018 22:46:48:827 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 5] TSAE session
+29-11-2018 22:46:49:006 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 6] TSAE session
+29-11-2018 22:47:08:828 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 7] TSAE session
+29-11-2018 22:47:08:832 groupXX@127.0.1.1:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 8] TSAE session
+29-11-2018 22:47:13:474 groupXX@127.0.1.1:35002 [DEBUG] : {a=[a, a, groupXX]}
+29-11-2018 22:47:13:477 groupXX@127.0.1.1:35002 [DEBUG] : AddOperation [recipe=[a, a, groupXX], timestamp=groupXX@127.0.1.1:35002:   0]
+
+29-11-2018 22:47:13:483 groupXX@127.0.1.1:35002 [DEBUG] : Summary: groupXX@127.0.1.1:35002:   0
+groupXX@127.0.1.1:35000:   0
+groupXX@127.0.1.1:35001:   0
+
+29-11-2018 22:47:13:487 groupXX@127.0.1.1:35002 [DEBUG] : Ack: groupXX@127.0.1.1:35002:   groupXX@127.0.1.1:35002:   0
+groupXX@127.0.1.1:35000:   0
+groupXX@127.0.1.1:35001:   0
+
+groupXX@127.0.1.1:35000:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+
+groupXX@127.0.1.1:35001:   groupXX@127.0.1.1:35002:   -1000
+groupXX@127.0.1.1:35000:   -1000
+groupXX@127.0.1.1:35001:   -1000
+
+
+29-11-2018 22:47:13:489 groupXX@127.0.1.1:35002 [INFO] : END

@@ -1,0 +1,1676 @@
+29-11-2018 18:00:24:222 groupXX@192.168.1.128:35002 [INFO] : -- *** --> Server -- local node: [192.168.1.128,35002,groupXX@192.168.1.128:35002]
+29-11-2018 18:00:24:259 groupXX@192.168.1.128:35002 [INFO] : -- *** --> Server -- participants: [groupXX@192.168.1.128:35000, groupXX@192.168.1.128:35001, groupXX@192.168.1.128:35002, groupXX@192.168.1.128:35003, groupXX@192.168.1.128:35004]
+29-11-2018 18:00:24:291 groupXX@192.168.1.128:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 1] TSAE session
+29-11-2018 18:00:47:302 groupXX@192.168.1.128:35002 [INFO] : [groupXX@192.168.1.128:35002] ADD recipe: oshhyerk
+29-11-2018 18:01:27:299 groupXX@192.168.1.128:35002 [INFO] : [groupXX@192.168.1.128:35002] ADD recipe: ecrvlprn
+29-11-2018 18:02:07:300 groupXX@192.168.1.128:35002 [INFO] : [groupXX@192.168.1.128:35002] ADD recipe: nmhaahco
+29-11-2018 18:02:27:302 groupXX@192.168.1.128:35002 [INFO] : [groupXX@192.168.1.128:35002] ADD recipe: lufmwcpv
+29-11-2018 18:03:26:592 groupXX@192.168.1.128:35002 [TRACE] : [TSAESessionOriginatorSide] [session: 2] TSAE session
+29-11-2018 18:03:47:301 groupXX@192.168.1.128:35002 [INFO] : [groupXX@192.168.1.128:35002] ADD recipe: pimaukav
+29-11-2018 18:05:24:774 groupXX@192.168.1.128:35002 [INFO] : Server groupXX@192.168.1.128:35002 finishes Activity Simulation
+29-11-2018 18:05:25:223 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 1/36] sending partial result
+29-11-2018 18:05:25:225 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:05:25:226 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:05:25:227 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:05:25:229 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:05:30:303 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 2/36] sending partial result
+29-11-2018 18:05:30:304 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:05:30:305 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:05:30:306 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:05:30:307 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:05:35:323 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 3/36] sending partial result
+29-11-2018 18:05:35:324 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:05:35:325 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:05:35:325 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:05:35:326 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:05:40:340 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 4/36] sending partial result
+29-11-2018 18:05:40:341 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:05:40:342 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:05:40:343 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:05:40:343 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:05:45:354 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 5/36] sending partial result
+29-11-2018 18:05:45:356 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:05:45:357 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:05:45:357 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:05:45:358 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:05:50:368 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 6/36] sending partial result
+29-11-2018 18:05:50:369 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:05:50:369 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:05:50:371 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:05:50:375 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:05:55:386 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 7/36] sending partial result
+29-11-2018 18:05:55:389 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:05:55:390 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:05:55:391 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:05:55:391 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:06:00:402 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 8/36] sending partial result
+29-11-2018 18:06:00:403 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:06:00:404 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:06:00:405 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:06:00:406 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:06:05:421 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 9/36] sending partial result
+29-11-2018 18:06:05:422 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:06:05:423 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:06:05:423 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:06:05:424 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:06:10:433 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 10/36] sending partial result
+29-11-2018 18:06:10:435 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:06:10:436 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:06:10:437 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:06:10:437 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:06:15:451 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 11/36] sending partial result
+29-11-2018 18:06:15:452 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:06:15:453 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:06:15:456 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:06:15:456 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:06:20:469 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 12/36] sending partial result
+29-11-2018 18:06:20:471 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:06:20:472 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:06:20:473 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:06:20:473 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:06:25:483 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 13/36] sending partial result
+29-11-2018 18:06:25:484 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:06:25:485 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:06:25:486 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:06:25:486 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:06:30:498 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 14/36] sending partial result
+29-11-2018 18:06:30:499 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:06:30:500 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:06:30:501 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:06:30:501 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:06:35:512 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 15/36] sending partial result
+29-11-2018 18:06:35:513 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:06:35:514 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:06:35:515 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:06:35:516 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:06:40:527 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 16/36] sending partial result
+29-11-2018 18:06:40:528 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:06:40:529 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:06:40:529 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:06:40:530 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:06:45:542 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 17/36] sending partial result
+29-11-2018 18:06:45:544 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:06:45:545 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:06:45:545 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:06:45:546 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:06:50:551 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 18/36] sending partial result
+29-11-2018 18:06:50:552 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:06:50:553 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:06:50:554 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:06:50:555 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:06:55:567 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 19/36] sending partial result
+29-11-2018 18:06:55:569 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:06:55:570 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:06:55:571 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:06:55:571 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:07:00:581 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 20/36] sending partial result
+29-11-2018 18:07:00:581 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:07:00:583 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:07:00:583 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:07:00:584 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:07:05:594 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 21/36] sending partial result
+29-11-2018 18:07:05:595 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:07:05:596 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:07:05:596 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:07:05:597 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:07:10:602 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 22/36] sending partial result
+29-11-2018 18:07:10:604 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:07:10:605 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:07:10:606 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:07:10:607 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:07:15:613 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 23/36] sending partial result
+29-11-2018 18:07:15:614 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:07:15:614 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:07:15:615 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:07:15:616 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:07:20:633 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 24/36] sending partial result
+29-11-2018 18:07:20:635 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:07:20:637 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:07:20:638 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:07:20:638 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:07:25:649 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 25/36] sending partial result
+29-11-2018 18:07:25:650 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:07:25:651 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:07:25:651 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:07:25:652 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:07:30:661 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 26/36] sending partial result
+29-11-2018 18:07:30:662 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:07:30:663 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:07:30:664 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:07:30:665 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:07:35:677 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 27/36] sending partial result
+29-11-2018 18:07:35:678 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:07:35:679 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:07:35:679 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:07:35:680 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:07:40:691 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 28/36] sending partial result
+29-11-2018 18:07:40:692 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:07:40:693 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:07:40:693 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:07:40:694 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:07:45:704 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 29/36] sending partial result
+29-11-2018 18:07:45:704 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:07:45:705 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:07:45:705 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:07:45:706 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:07:50:715 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 30/36] sending partial result
+29-11-2018 18:07:50:715 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:07:50:717 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:07:50:717 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:07:50:718 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:07:55:729 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 31/36] sending partial result
+29-11-2018 18:07:55:729 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:07:55:731 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:07:55:732 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:07:55:732 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:08:00:744 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 32/36] sending partial result
+29-11-2018 18:08:00:745 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:08:00:746 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:08:00:747 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:08:00:747 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:08:05:756 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 33/36] sending partial result
+29-11-2018 18:08:05:757 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:08:05:758 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:08:05:759 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:08:05:760 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:08:10:769 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 34/36] sending partial result
+29-11-2018 18:08:10:770 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:08:10:771 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:08:10:772 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:08:10:772 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:08:15:784 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 35/36] sending partial result
+29-11-2018 18:08:15:785 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:08:15:786 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:08:15:787 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:08:15:787 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:08:20:798 groupXX@192.168.1.128:35002 [DEBUG] : ##### [iteration: 36/36] sending partial result
+29-11-2018 18:08:20:798 groupXX@192.168.1.128:35002 [TRACE] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:08:20:799 groupXX@192.168.1.128:35002 [TRACE] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:08:20:800 groupXX@192.168.1.128:35002 [TRACE] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:08:20:801 groupXX@192.168.1.128:35002 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:08:24:787 groupXX@192.168.1.128:35002 [INFO] : Server groupXX@192.168.1.128:35002 Ends Execution
+29-11-2018 18:08:28:809 groupXX@192.168.1.128:35002 [DEBUG] : {ecrvlprn=[ecrvlprn, Content--ecrvlprn, groupXX], lufmwcpv=[lufmwcpv, Content--lufmwcpv, groupXX], nmhaahco=[nmhaahco, Content--nmhaahco, groupXX], oshhyerk=[oshhyerk, Content--oshhyerk, groupXX], pimaukav=[pimaukav, Content--pimaukav, groupXX]}
+29-11-2018 18:08:28:810 groupXX@192.168.1.128:35002 [DEBUG] : AddOperation [recipe=[oshhyerk, Content--oshhyerk, groupXX], timestamp=groupXX@192.168.1.128:35002:   0]
+AddOperation [recipe=[ecrvlprn, Content--ecrvlprn, groupXX], timestamp=groupXX@192.168.1.128:35002:   1]
+AddOperation [recipe=[nmhaahco, Content--nmhaahco, groupXX], timestamp=groupXX@192.168.1.128:35002:   2]
+AddOperation [recipe=[lufmwcpv, Content--lufmwcpv, groupXX], timestamp=groupXX@192.168.1.128:35002:   3]
+AddOperation [recipe=[pimaukav, Content--pimaukav, groupXX], timestamp=groupXX@192.168.1.128:35002:   4]
+
+29-11-2018 18:08:28:810 groupXX@192.168.1.128:35002 [DEBUG] : Summary: groupXX@192.168.1.128:35002:   4
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:08:28:811 groupXX@192.168.1.128:35002 [DEBUG] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:08:28:811 groupXX@192.168.1.128:35002 [INFO] : END

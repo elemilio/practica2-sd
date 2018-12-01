@@ -1,0 +1,10 @@
+29-11-2018 18:00:29:177 groupXX@192.168.1.128:35003 [INFO] : -- *** --> Server -- local node: [192.168.1.128,35003,groupXX@192.168.1.128:35003]
+29-11-2018 18:00:29:191 groupXX@192.168.1.128:35003 [INFO] : -- *** --> Server -- participants: [groupXX@192.168.1.128:35000, groupXX@192.168.1.128:35001, groupXX@192.168.1.128:35002, groupXX@192.168.1.128:35003, groupXX@192.168.1.128:35004]
+29-11-2018 18:00:29:205 groupXX@192.168.1.128:35003 [TRACE] : [TSAESessionOriginatorSide] [session: 1] TSAE session
+29-11-2018 18:00:34:639 groupXX@192.168.1.128:35003 [INFO] : [groupXX@192.168.1.128:35003] ADD recipe: dehciyxi
+29-11-2018 18:00:54:638 groupXX@192.168.1.128:35003 [INFO] : [groupXX@192.168.1.128:35003] ADD recipe: cdelwydk
+29-11-2018 18:03:14:643 groupXX@192.168.1.128:35003 [INFO] : [groupXX@192.168.1.128:35003] >> Server DISCONNECTION
+29-11-2018 18:03:26:479 groupXX@192.168.1.128:35003 [TRACE] : [TSAESessionOriginatorSide] [session: 2] TSAE session
+29-11-2018 18:03:26:488 groupXX@192.168.1.128:35003 [TRACE] : [TSAESessionOriginatorSide] [session: 3] TSAE session
+29-11-2018 18:03:26:491 groupXX@192.168.1.128:35003 [TRACE] : [TSAESessionOriginatorSide] [session: 4] TSAE session
+29-11-2018 18:05:29:474 groupXX@192.168.1.128:35003 [INFO] : Server groupXX@192.168.1.128:35003 finishes Activity Simulation. It will stop because is not connected

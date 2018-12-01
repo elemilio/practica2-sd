@@ -1,0 +1,45 @@
+30-11-2018 18:28:30:244 groupXX@192.168.1.133:35000 [INFO] : -- *** --> Server -- local node: [192.168.1.133,35000,groupXX@192.168.1.133:35000]
+30-11-2018 18:28:30:278 groupXX@192.168.1.133:35000 [INFO] : -- *** --> Server -- participants: [groupXX@192.168.1.133:35000, groupXX@192.168.1.133:35001, groupXX@192.168.1.133:35002, groupXX@192.168.1.133:35003, groupXX@192.168.1.133:35004]
+30-11-2018 18:28:30:322 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 1] TSAE session
+30-11-2018 18:28:30:588 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 2] TSAE session
+30-11-2018 18:28:30:622 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 3] TSAE session
+30-11-2018 18:28:40:405 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 4] TSAE session
+30-11-2018 18:28:50:306 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 5] TSAE session
+30-11-2018 18:28:50:359 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 6] TSAE session
+30-11-2018 18:28:50:434 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 7] TSAE session
+30-11-2018 18:28:50:550 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 8] TSAE session
+30-11-2018 18:29:10:302 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 9] TSAE session
+30-11-2018 18:29:10:329 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 10] TSAE session
+30-11-2018 18:29:10:374 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 11] TSAE session
+30-11-2018 18:29:10:430 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 12] TSAE session
+30-11-2018 18:29:30:304 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 13] TSAE session
+30-11-2018 18:29:30:341 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 14] TSAE session
+30-11-2018 18:29:30:379 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 15] TSAE session
+30-11-2018 18:29:30:424 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 16] TSAE session
+30-11-2018 18:29:50:306 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 17] TSAE session
+30-11-2018 18:29:50:334 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 18] TSAE session
+30-11-2018 18:29:50:369 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 19] TSAE session
+30-11-2018 18:29:50:399 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 20] TSAE session
+30-11-2018 18:30:10:307 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 21] TSAE session
+30-11-2018 18:30:10:352 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 22] TSAE session
+30-11-2018 18:30:10:398 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 23] TSAE session
+30-11-2018 18:30:10:432 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 24] TSAE session
+30-11-2018 18:30:30:304 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 25] TSAE session
+30-11-2018 18:30:30:338 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 26] TSAE session
+30-11-2018 18:30:30:380 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 27] TSAE session
+30-11-2018 18:30:30:413 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 28] TSAE session
+30-11-2018 18:30:50:304 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 29] TSAE session
+30-11-2018 18:30:50:328 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 30] TSAE session
+30-11-2018 18:30:50:380 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 31] TSAE session
+30-11-2018 18:30:50:388 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 32] TSAE session
+30-11-2018 18:31:10:306 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 33] TSAE session
+30-11-2018 18:31:10:319 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 34] TSAE session
+30-11-2018 18:31:10:362 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 35] TSAE session
+30-11-2018 18:31:10:387 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 36] TSAE session
+30-11-2018 18:31:13:018 groupXX@192.168.1.133:35000 [INFO] : [groupXX@192.168.1.133:35000] ADD recipe: qpvqarcm
+30-11-2018 18:31:30:305 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 37] TSAE session
+30-11-2018 18:31:30:353 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 38] TSAE session
+30-11-2018 18:31:30:403 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 39] TSAE session
+30-11-2018 18:31:30:443 groupXX@192.168.1.133:35000 [TRACE] : [TSAESessionOriginatorSide] [session: 40] TSAE session
+30-11-2018 18:31:33:020 groupXX@192.168.1.133:35000 [INFO] : [groupXX@192.168.1.133:35000] >> Server DISCONNECTION
+30-11-2018 18:33:30:948 groupXX@192.168.1.133:35000 [INFO] : Server groupXX@192.168.1.133:35000 finishes Activity Simulation. It will stop because is not connected

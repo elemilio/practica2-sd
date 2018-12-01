@@ -1,0 +1,1602 @@
+29-11-2018 18:11:41:825 groupXX@192.168.1.128:35003 [INFO] : -- *** --> Server -- local node: [192.168.1.128,35003,groupXX@192.168.1.128:35003]
+29-11-2018 18:11:41:848 groupXX@192.168.1.128:35003 [INFO] : -- *** --> Server -- participants: [groupXX@192.168.1.128:35000, groupXX@192.168.1.128:35001, groupXX@192.168.1.128:35002, groupXX@192.168.1.128:35003, groupXX@192.168.1.128:35004]
+29-11-2018 18:11:41:861 groupXX@192.168.1.128:35003 [TRACE] : [TSAESessionOriginatorSide] [session: 1] TSAE session
+29-11-2018 18:12:11:169 groupXX@192.168.1.128:35003 [INFO] : [groupXX@192.168.1.128:35003] ADD recipe: wytysudo
+29-11-2018 18:12:51:170 groupXX@192.168.1.128:35003 [INFO] : [groupXX@192.168.1.128:35003] ADD recipe: gaatbdhv
+29-11-2018 18:14:11:170 groupXX@192.168.1.128:35003 [INFO] : [groupXX@192.168.1.128:35003] ADD recipe: vetcrsjn
+29-11-2018 18:14:25:647 groupXX@192.168.1.128:35003 [TRACE] : [TSAESessionOriginatorSide] [session: 2] TSAE session
+29-11-2018 18:16:42:190 groupXX@192.168.1.128:35003 [INFO] : Server groupXX@192.168.1.128:35003 finishes Activity Simulation
+29-11-2018 18:16:42:368 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 1/36] sending partial result
+29-11-2018 18:16:42:370 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:16:42:371 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:16:42:372 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:16:42:373 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:16:47:407 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 2/36] sending partial result
+29-11-2018 18:16:47:408 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:16:47:409 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:16:47:413 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:16:47:413 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:16:52:436 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 3/36] sending partial result
+29-11-2018 18:16:52:437 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:16:52:438 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:16:52:439 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:16:52:440 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:16:57:451 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 4/36] sending partial result
+29-11-2018 18:16:57:451 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:16:57:452 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:16:57:452 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:16:57:453 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:17:02:465 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 5/36] sending partial result
+29-11-2018 18:17:02:468 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:17:02:469 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:17:02:470 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:17:02:471 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:17:07:484 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 6/36] sending partial result
+29-11-2018 18:17:07:486 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:17:07:486 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:17:07:488 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:17:07:488 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:17:12:497 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 7/36] sending partial result
+29-11-2018 18:17:12:499 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:17:12:500 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:17:12:500 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:17:12:501 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:17:17:516 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 8/36] sending partial result
+29-11-2018 18:17:17:517 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:17:17:518 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:17:17:519 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:17:17:520 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:17:22:528 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 9/36] sending partial result
+29-11-2018 18:17:22:529 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:17:22:530 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:17:22:531 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:17:22:532 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:17:27:543 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 10/36] sending partial result
+29-11-2018 18:17:27:546 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:17:27:546 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:17:27:547 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:17:27:548 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:17:32:560 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 11/36] sending partial result
+29-11-2018 18:17:32:565 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:17:32:566 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:17:32:567 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:17:32:568 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:17:37:580 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 12/36] sending partial result
+29-11-2018 18:17:37:582 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:17:37:583 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:17:37:584 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:17:37:585 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:17:42:593 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 13/36] sending partial result
+29-11-2018 18:17:42:593 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:17:42:595 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:17:42:596 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:17:42:597 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:17:47:610 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 14/36] sending partial result
+29-11-2018 18:17:47:610 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:17:47:612 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:17:47:616 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:17:47:616 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:17:52:627 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 15/36] sending partial result
+29-11-2018 18:17:52:628 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:17:52:629 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:17:52:630 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:17:52:630 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:17:57:642 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 16/36] sending partial result
+29-11-2018 18:17:57:643 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:17:57:645 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:17:57:646 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:17:57:646 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:18:02:656 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 17/36] sending partial result
+29-11-2018 18:18:02:660 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:18:02:661 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:18:02:661 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:18:02:662 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:18:07:668 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 18/36] sending partial result
+29-11-2018 18:18:07:669 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:18:07:670 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:18:07:671 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:18:07:672 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:18:12:681 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 19/36] sending partial result
+29-11-2018 18:18:12:682 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:18:12:683 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:18:12:684 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:18:12:685 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:18:17:694 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 20/36] sending partial result
+29-11-2018 18:18:17:695 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:18:17:696 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:18:17:697 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:18:17:697 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:18:22:704 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 21/36] sending partial result
+29-11-2018 18:18:22:705 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:18:22:706 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:18:22:707 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:18:22:708 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:18:27:717 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 22/36] sending partial result
+29-11-2018 18:18:27:718 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:18:27:719 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:18:27:720 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:18:27:721 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:18:32:727 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 23/36] sending partial result
+29-11-2018 18:18:32:731 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:18:32:732 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:18:32:733 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:18:32:733 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:18:37:740 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 24/36] sending partial result
+29-11-2018 18:18:37:741 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:18:37:742 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:18:37:743 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:18:37:744 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:18:42:750 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 25/36] sending partial result
+29-11-2018 18:18:42:751 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:18:42:752 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:18:42:752 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:18:42:753 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:18:47:765 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 26/36] sending partial result
+29-11-2018 18:18:47:765 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:18:47:767 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:18:47:767 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:18:47:768 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:18:52:775 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 27/36] sending partial result
+29-11-2018 18:18:52:776 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:18:52:777 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:18:52:778 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:18:52:778 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:18:57:790 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 28/36] sending partial result
+29-11-2018 18:18:57:791 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:18:57:792 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:18:57:793 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:18:57:794 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:19:02:804 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 29/36] sending partial result
+29-11-2018 18:19:02:809 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:19:02:810 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:19:02:811 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:19:02:811 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:19:07:820 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 30/36] sending partial result
+29-11-2018 18:19:07:821 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:19:07:822 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:19:07:823 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:19:07:823 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:19:12:832 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 31/36] sending partial result
+29-11-2018 18:19:12:834 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:19:12:836 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:19:12:837 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:19:12:838 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:19:17:851 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 32/36] sending partial result
+29-11-2018 18:19:17:852 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:19:17:853 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:19:17:854 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:19:17:854 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:19:22:860 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 33/36] sending partial result
+29-11-2018 18:19:22:861 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:19:22:862 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:19:22:863 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:19:22:863 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:19:27:870 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 34/36] sending partial result
+29-11-2018 18:19:27:871 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:19:27:872 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:19:27:873 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:19:27:874 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:19:32:883 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 35/36] sending partial result
+29-11-2018 18:19:32:883 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:19:32:885 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:19:32:885 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:19:32:886 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:19:37:892 groupXX@192.168.1.128:35003 [DEBUG] : ##### [iteration: 36/36] sending partial result
+29-11-2018 18:19:37:893 groupXX@192.168.1.128:35003 [TRACE] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:19:37:894 groupXX@192.168.1.128:35003 [TRACE] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:19:37:895 groupXX@192.168.1.128:35003 [TRACE] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:19:37:896 groupXX@192.168.1.128:35003 [TRACE] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:19:41:589 groupXX@192.168.1.128:35003 [TRACE] : [TSAESessionOriginatorSide] [session: 3] TSAE session
+29-11-2018 18:19:41:594 groupXX@192.168.1.128:35003 [TRACE] : [TSAESessionOriginatorSide] [session: 4] TSAE session
+29-11-2018 18:19:42:200 groupXX@192.168.1.128:35003 [INFO] : Server groupXX@192.168.1.128:35003 Ends Execution
+29-11-2018 18:19:45:908 groupXX@192.168.1.128:35003 [DEBUG] : {gaatbdhv=[gaatbdhv, Content--gaatbdhv, groupXX], vetcrsjn=[vetcrsjn, Content--vetcrsjn, groupXX], wytysudo=[wytysudo, Content--wytysudo, groupXX]}
+29-11-2018 18:19:45:910 groupXX@192.168.1.128:35003 [DEBUG] : AddOperation [recipe=[wytysudo, Content--wytysudo, groupXX], timestamp=groupXX@192.168.1.128:35003:   0]
+AddOperation [recipe=[gaatbdhv, Content--gaatbdhv, groupXX], timestamp=groupXX@192.168.1.128:35003:   1]
+AddOperation [recipe=[vetcrsjn, Content--vetcrsjn, groupXX], timestamp=groupXX@192.168.1.128:35003:   2]
+
+29-11-2018 18:19:45:911 groupXX@192.168.1.128:35003 [DEBUG] : Summary: groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   2
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+29-11-2018 18:19:45:911 groupXX@192.168.1.128:35003 [DEBUG] : Ack: groupXX@192.168.1.128:35002:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35003:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35004:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35000:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+groupXX@192.168.1.128:35001:   groupXX@192.168.1.128:35002:   -1000
+groupXX@192.168.1.128:35003:   -1000
+groupXX@192.168.1.128:35004:   -1000
+groupXX@192.168.1.128:35000:   -1000
+groupXX@192.168.1.128:35001:   -1000
+
+
+29-11-2018 18:19:45:912 groupXX@192.168.1.128:35003 [INFO] : END
