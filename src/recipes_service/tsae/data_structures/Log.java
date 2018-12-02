@@ -21,11 +21,15 @@
 package recipes_service.tsae.data_structures;
 
 import java.io.Serializable;
-import java.util.*;
-import java.util.Map.Entry;
+import java.util.Enumeration;
+import java.util.Iterator;
+import java.util.List;
+import java.util.ListIterator;
+import java.util.Vector;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.Semaphore;
 
+import edu.uoc.dpcs.lsim.LSimFactory;
+import lsim.worker.LSimWorker;
 import recipes_service.data.Operation;
 
 /**
@@ -34,6 +38,8 @@ import recipes_service.data.Operation;
  *
  */
 public class Log implements Serializable{
+	// Needed for the logging system sgeag@2017
+	private transient LSimWorker lsim = LSimFactory.getWorkerInstance();
 
 	private static final long serialVersionUID = -4864990265268259700L;
 	/**
@@ -43,8 +49,7 @@ public class Log implements Serializable{
 	 * that stores a list of operations for each member of 
 	 * the group.
 	 */
-	private ConcurrentHashMap<String, List<Operation>> log= new ConcurrentHashMap<String, List<Operation>>();
-	private Semaphore mutex = new Semaphore(1);
+	private ConcurrentHashMap<String, List<Operation>> log= new ConcurrentHashMap<String, List<Operation>>();  
 
 	public Log(List<String> participants){
 		// create an empty log
@@ -54,11 +59,14 @@ public class Log implements Serializable{
 	}
 
 	/**
+	 * inserts an operation into the log. Operations are 
+	 * inserted in order. If the last operation for 
+	 * the user is not the previous operation than the one 
+	 * being inserted, the insertion will fail.
+	 * 
 	 * @param op
-	 * @return true insertion ok, false ko.
+	 * @return true if op is inserted, false otherwise.
 	 */
-	
-	/*
 	public synchronized boolean add(Operation op){
 		List<Operation> principalLog = log.get(op.getTimestamp().getHostid());
 		if (principalLog.size() > 0) {
@@ -71,45 +79,14 @@ public class Log implements Serializable{
 		log.put(op.getTimestamp().getHostid(), principalLog);
 		return true;
 	}
-	*/
-	
-	public synchronized boolean add(Operation op){
-		try {
-			mutex.acquire();
-
-			Timestamp opTimestamp = op.getTimestamp();
-			String hostId = opTimestamp.getHostid();
-
-
-			List<Operation> operations = log.get(hostId);
-			
-			if (operations.size() > 0) {
-				Operation lastOperation = operations.get(operations.size() - 1);
-
-				if (opTimestamp.compare(lastOperation.getTimestamp()) > 0) {
-					log.get(hostId).add(op);
-				} else {
-					return false;
-				}
-			} else {
-				log.get(hostId).add(op);
-			}
-
-		} catch (InterruptedException e) {
-			return false;
-		} finally {
-			mutex.release();
-		}
-
-		return true;
-	}
-
-
 	
 	/**
-	 * 
-	 * @param summary
-	 * @return
+	 * Checks the received summary (sum) and determines the operations
+	 * contained in the log that have not been seen by
+	 * the proprietary of the summary.
+	 * Returns them in an ordered list.
+	 * @param sum
+	 * @return list of operations
 	 */
 	public synchronized List<Operation> listNewer(TimestampVector sum) {
 
@@ -121,82 +98,49 @@ public class Log implements Serializable{
 			List<Operation> operations = new Vector<Operation>(this.log.get(node));
 			Timestamp timestampToCompare = sum.getLast(node);
 
-			for (Iterator<Operation> operationIterator = operations.iterator(); operationIterator.hasNext(); ) {
-				Operation operation = operationIterator.next();
-				
-				if (operation.getTimestamp().compare(timestampToCompare) > 0) {
-					list.add(operation);
+			for (Iterator<Operation> opIt = operations.iterator(); opIt.hasNext(); ) {
+				Operation op = opIt.next();
+				if (op.getTimestamp().compare(timestampToCompare) > 0) {
+					list.add(op);
 				}
 			}
 		}
 		return list;
 	}
 	
-
-
 	/**
-	 * Removes all operations ack by all hosts
-	 * @param ack
+	 * Removes from the log the operations that have
+	 * been acknowledged by all the members
+	 * of the group, according to the provided
+	 * ackSummary. 
+	 * @param ack: ackSummary.
 	 */
 	public synchronized void purgeLog(TimestampMatrix ack){
-		
-		List<String> keys = new Vector<String>(this.log.keySet());
+		List<String> participants = new Vector<String>(this.log.keySet());
 		TimestampVector min = ack.minTimestampVector();
-		
-		for (Iterator<String> iterator = keys.iterator(); iterator.hasNext(); ){
-			String node = iterator.next();
-			
-			for (Iterator<Operation> operation = log.get(node).iterator(); operation.hasNext();) {
-				if (min.getLast(node) != null && operation.next().getTimestamp().compare(min.getLast(node)) <= 0) {
-					operation.remove();
+		for (Iterator<String> it = participants.iterator(); it.hasNext(); ){
+			String node = it.next();
+			for (Iterator<Operation> opIt = log.get(node).iterator(); opIt.hasNext();) {
+				if (min.getLast(node) != null && opIt.next().getTimestamp().compare(min.getLast(node)) <= 0) {
+					opIt.remove();
 				}
 			}
 		}
 	}
-	
 
 	/**
 	 * equals
-	 * added synchronized
 	 */
 	@Override
-	public synchronized boolean equals(Object obj) {
-		
-		// it's exact
+	public boolean equals(Object obj) {
 		if (this == obj)
 			return true;
-		
-		// it's null
 		if (obj == null)
 			return false;
-		
-		// its'n same object type
 		if (getClass() != obj.getClass())
 			return false;
-		
-		// it's a Log object
 		Log other = (Log) obj;
-		
-		// Log it's null
-		if (log == null) {
-			return other.log == null;
-		} else {
-			
-			if (log.size() != other.log.size()){
-				return false;
-			}
-			
-			// Compare 2 Logs
-			boolean equal = true;
-			for (Iterator<String> iterator = log.keySet().iterator(); iterator.hasNext() && equal; ){
-				
-				String hostName = iterator.next();
-				equal = log.get(hostName).equals(other.log.get(hostName));
-				//equals
-			}
-			return equal;
-		}
-
+		return other.log.equals(log);
 	}
 
 	/**
@@ -215,5 +159,4 @@ public class Log implements Serializable{
 		
 		return name;
 	}
-
 }

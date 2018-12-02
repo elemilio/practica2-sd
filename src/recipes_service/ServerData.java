@@ -31,6 +31,7 @@ import recipes_service.communication.Host;
 import recipes_service.communication.Hosts;
 import recipes_service.data.AddOperation;
 import recipes_service.data.Operation;
+import recipes_service.data.OperationType;
 import recipes_service.data.Recipe;
 import recipes_service.data.Recipes;
 import recipes_service.data.RemoveOperation;
@@ -83,9 +84,6 @@ public class ServerData {
 	private long sessionPeriod = 10;
 
 	private Timer tsaeSessionTimer;
-	
-	private Object communicationLock = new Object();
-
 
 	//
 	TSAESessionOriginatorSide tsae = null;
@@ -151,7 +149,7 @@ public class ServerData {
 
 		Timestamp timestamp= nextTimestamp();
 		Recipe rcpe = new Recipe(recipeTitle, recipe, groupId, timestamp);
-		Operation op = new AddOperation(rcpe, timestamp);
+		Operation op=new AddOperation(rcpe, timestamp);
 
 		this.log.add(op);
 		this.summary.updateTimestamp(timestamp);
@@ -159,18 +157,7 @@ public class ServerData {
 	}
 	
 	public synchronized void removeRecipe(String recipeTitle){
-		Recipe recipe = this.recipes.get(recipeTitle);
-		
-		if (recipe != null) {
-			
-			Timestamp timestamp = nextTimestamp();
-			Operation operation = new RemoveOperation(recipeTitle, recipe.getTimestamp(), timestamp);
-			this.log.add(operation);
-			this.ack.update(this.id, this.summary);
-			this.recipes.remove(recipeTitle);
-		}
-		
-		//System.err.println("Error: removeRecipe method (recipesService.serverData) not yet implemented");
+		System.err.println("Error: removeRecipe method (recipesService.serverData) not yet implemented");
 	}
 	
 
@@ -258,12 +245,16 @@ public class ServerData {
 	public synchronized void notifyServerConnected(){
 		notifyAll();
 	}
-	
-	/**
-	 * To control communications
-	 * @return
-	 */
-	public synchronized Object getCommunicationLock() {
-		return communicationLock;
+
+	public synchronized void execOperation(Operation op) {
+		if (log.add(op)) {
+			if (op.getType().equals(OperationType.ADD)) {
+				recipes.add(((AddOperation)op).getRecipe());
+			} else {
+				recipes.remove(((RemoveOperation)op).getRecipeTitle());
+			}
+		}
 	}
+	
+	
 }
