@@ -1,0 +1,6 @@
+01-12-2018 23:47:03:348 groupXX@127.0.1.1:35001 [INFO] : -- *** --> Server -- local node: [127.0.1.1,35001,groupXX@127.0.1.1:35001]
+01-12-2018 23:47:03:366 groupXX@127.0.1.1:35001 [INFO] : -- *** --> Server -- participants: [groupXX@127.0.1.1:35000, groupXX@127.0.1.1:35001, groupXX@127.0.1.1:35002]
+01-12-2018 23:47:11:636 groupXX@127.0.1.1:35001 [INFO] : [groupXX@127.0.1.1:35001] ADD recipe: thmtcuqt
+01-12-2018 23:47:31:636 groupXX@127.0.1.1:35001 [INFO] : [groupXX@127.0.1.1:35001] ADD recipe: brbltiml
+01-12-2018 23:47:51:635 groupXX@127.0.1.1:35001 [INFO] : [groupXX@127.0.1.1:35001] >> Server DISCONNECTION
+01-12-2018 23:52:03:612 groupXX@127.0.1.1:35001 [INFO] : Server groupXX@127.0.1.1:35001 finishes Activity Simulation. It will stop because is not connected

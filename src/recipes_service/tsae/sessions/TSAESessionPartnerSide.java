@@ -121,6 +121,10 @@ public class TSAESessionPartnerSide extends Thread{
                     out.writeObject(msg);
                     
                     //TODO Operations Queue 
+                    //for
+                    // operations...
+                    
+                    
                 }
 
             }

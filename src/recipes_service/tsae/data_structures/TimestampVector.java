@@ -68,7 +68,7 @@ public class TimestampVector implements Serializable{
 			Timestamp ts = tsVector.getLast(key);
 			Timestamp ts_propio = this.getLast(key);
 			if(ts_propio.compare(ts) < 0) {			
-				this.timestampVector.replace(key, ts);			
+				this.timestampVector.put(key, ts);			
 			}
 		}
 		
@@ -120,39 +120,16 @@ public class TimestampVector implements Serializable{
 	 * @param TimestampVector
 	 * @return true if TimestampVector is equals,or false.
 	 */
-	public synchronized boolean equals(TimestampVector tsVector){
+	public synchronized boolean equals(TimestampVector obj){
 		
-		// It's exact
-		if (this == tsVector)
+		if (this == obj)
 			return true;
-		
-		// It's null
-		if (timestampVector == null) {
-			if (tsVector.timestampVector != null)
-				return false;
-			else
-				return true; // 2 are null
-		
-		} else {
-			
-			if (timestampVector.size() == 0 && tsVector.timestampVector.size() == 0){
-				return true;
-			}
-			// Size is different
-			if (timestampVector.size() != tsVector.timestampVector.size()){
-				return false;
-			}
-			boolean equal = true;
-			
-			// Compare all hostNames
-			for (Iterator<String> iterator = timestampVector.keySet().iterator(); iterator.hasNext() && equal; ){
-				String hostName = iterator.next();
-				equal = timestampVector.get(hostName).equals(tsVector.timestampVector.get(hostName));
-				if (!equal){
-				}
-			}
-			return equal;
-		}
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		TimestampVector other = (TimestampVector) obj;
+		return other.timestampVector.equals(timestampVector);
 	}
 
 	/**

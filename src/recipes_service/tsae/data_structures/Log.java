@@ -57,6 +57,22 @@ public class Log implements Serializable{
 	 * @param op
 	 * @return true insertion ok, false ko.
 	 */
+	
+	/*
+	public synchronized boolean add(Operation op){
+		List<Operation> principalLog = log.get(op.getTimestamp().getHostid());
+		if (principalLog.size() > 0) {
+			Operation lastOp = principalLog.get(principalLog.size() - 1);
+			if (lastOp.getTimestamp().compare(op.getTimestamp()) >= 0) {
+				return false;
+			}
+		}
+		principalLog.add(op);
+		log.put(op.getTimestamp().getHostid(), principalLog);
+		return true;
+	}
+	*/
+	
 	public synchronized boolean add(Operation op){
 		try {
 			mutex.acquire();
@@ -88,72 +104,56 @@ public class Log implements Serializable{
 		return true;
 	}
 
-	
-	private Timestamp getLastTimestamp(String hostID) {
 
-      List<Operation> operations = this.log.get(hostID);
-      Timestamp ret = null;
-      
-      if (operations != null && !operations.isEmpty()) {
-    	  int lastOperationsList=operations.size() - 1;
-    	  ret = operations.get(lastOperationsList).getTimestamp();
-      }
-		
-      return ret;
-	}
 	
-
 	/**
 	 * 
 	 * @param summary
 	 * @return
 	 */
-	public synchronized List<Operation> listNewer (TimestampVector summary){
-		
-		List<Operation> operations = new ArrayList();
+	public synchronized List<Operation> listNewer(TimestampVector sum) {
 
-		for (String hostId : this.log.keySet()) {
-			Timestamp lastTimestamp = summary.getLast(hostId);
-			
-			List<Operation> hostOperations = this.log.get(hostId);
-			for (Operation hostOperation : hostOperations) {
+		List<Operation> list = new Vector<Operation>();
+		List<String> participants = new Vector<String>(this.log.keySet());
+
+		for (Iterator<String> it = participants.iterator(); it.hasNext(); ){
+			String node = it.next();
+			List<Operation> operations = new Vector<Operation>(this.log.get(node));
+			Timestamp timestampToCompare = sum.getLast(node);
+
+			for (Iterator<Operation> operationIterator = operations.iterator(); operationIterator.hasNext(); ) {
+				Operation operation = operationIterator.next();
 				
-				if (hostOperation.getTimestamp().compare(lastTimestamp) < 1) {
-					operations.add(hostOperation);
+				if (operation.getTimestamp().compare(timestampToCompare) > 0) {
+					list.add(operation);
 				}
 			}
 		}
-
-		return operations;
-
+		return list;
 	}
 	
+
+
 	/**
 	 * Removes all operations ack by all hosts
 	 * @param ack
 	 */
 	public synchronized void purgeLog(TimestampMatrix ack){
 		
-		TimestampVector minTimestampVector = ack.minTimestampVector();
+		List<String> keys = new Vector<String>(this.log.keySet());
+		TimestampVector min = ack.minTimestampVector();
 		
-		for (Map.Entry < String, List<Operation>> entry : log.entrySet()){
+		for (Iterator<String> iterator = keys.iterator(); iterator.hasNext(); ){
+			String node = iterator.next();
 			
-			String entryKey = entry.getKey();
-			List <Operation> operations = entry.getValue();
-			Timestamp lastTimestamp = minTimestampVector.getLast(entryKey);
-			
-			for (int i = operations.size()-1; i >= 0; i--){
-				
-				Operation operation = operations.get(i);
-				if (operation.getTimestamp().compare(lastTimestamp) < 0){
-					operations.remove(i);
+			for (Iterator<Operation> operation = log.get(node).iterator(); operation.hasNext();) {
+				if (min.getLast(node) != null && operation.next().getTimestamp().compare(min.getLast(node)) <= 0) {
+					operation.remove();
 				}
 			}
-			
 		}
-		
-		
 	}
+	
 
 	/**
 	 * equals

@@ -1,0 +1,1600 @@
+01-12-2018 23:22:28:844 groupXX@192.168.1.141:35003 [INFO] : -- *** --> Server -- local node: [192.168.1.141,35003,groupXX@192.168.1.141:35003]
+01-12-2018 23:22:28:864 groupXX@192.168.1.141:35003 [INFO] : -- *** --> Server -- participants: [groupXX@192.168.1.141:35000, groupXX@192.168.1.141:35001, groupXX@192.168.1.141:35002, groupXX@192.168.1.141:35003, groupXX@192.168.1.141:35004]
+01-12-2018 23:24:55:168 groupXX@192.168.1.141:35003 [INFO] : [groupXX@192.168.1.141:35003] >> Server DISCONNECTION
+01-12-2018 23:25:35:163 groupXX@192.168.1.141:35003 [INFO] : [groupXX@192.168.1.141:35003] >> Server RECONNECTION
+01-12-2018 23:25:55:166 groupXX@192.168.1.141:35003 [INFO] : [groupXX@192.168.1.141:35003] ADD recipe: dalbrawy
+01-12-2018 23:26:15:164 groupXX@192.168.1.141:35003 [INFO] : [groupXX@192.168.1.141:35003] ADD recipe: dujssqnw
+01-12-2018 23:26:35:163 groupXX@192.168.1.141:35003 [INFO] : [groupXX@192.168.1.141:35003] ADD recipe: hdkaqmtp
+01-12-2018 23:27:29:202 groupXX@192.168.1.141:35003 [INFO] : Server groupXX@192.168.1.141:35003 finishes Activity Simulation
+01-12-2018 23:27:29:505 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 1/36] sending partial result
+01-12-2018 23:27:29:507 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:27:29:508 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:27:29:508 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:27:29:509 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:27:34:540 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 2/36] sending partial result
+01-12-2018 23:27:34:541 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:27:34:542 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:27:34:543 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:27:34:544 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:27:39:556 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 3/36] sending partial result
+01-12-2018 23:27:39:557 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:27:39:558 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:27:39:558 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:27:39:559 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:27:44:570 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 4/36] sending partial result
+01-12-2018 23:27:44:571 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:27:44:572 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:27:44:573 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:27:44:575 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:27:49:585 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 5/36] sending partial result
+01-12-2018 23:27:49:586 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:27:49:587 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:27:49:588 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:27:49:588 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:27:54:601 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 6/36] sending partial result
+01-12-2018 23:27:54:603 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:27:54:604 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:27:54:604 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:27:54:605 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:27:59:615 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 7/36] sending partial result
+01-12-2018 23:27:59:615 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:27:59:617 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:27:59:617 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:27:59:617 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:28:04:630 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 8/36] sending partial result
+01-12-2018 23:28:04:632 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:28:04:633 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:28:04:634 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:28:04:634 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:28:09:643 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 9/36] sending partial result
+01-12-2018 23:28:09:644 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:28:09:645 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:28:09:646 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:28:09:646 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:28:14:656 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 10/36] sending partial result
+01-12-2018 23:28:14:662 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:28:14:662 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:28:14:663 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:28:14:663 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:28:19:675 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 11/36] sending partial result
+01-12-2018 23:28:19:676 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:28:19:677 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:28:19:677 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:28:19:678 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:28:24:687 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 12/36] sending partial result
+01-12-2018 23:28:24:692 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:28:24:692 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:28:24:693 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:28:24:693 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:28:29:706 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 13/36] sending partial result
+01-12-2018 23:28:29:706 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:28:29:707 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:28:29:708 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:28:29:708 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:28:34:718 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 14/36] sending partial result
+01-12-2018 23:28:34:720 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:28:34:721 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:28:34:721 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:28:34:722 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:28:39:741 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 15/36] sending partial result
+01-12-2018 23:28:39:741 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:28:39:742 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:28:39:743 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:28:39:743 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:28:44:750 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 16/36] sending partial result
+01-12-2018 23:28:44:755 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:28:44:756 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:28:44:757 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:28:44:757 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:28:49:767 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 17/36] sending partial result
+01-12-2018 23:28:49:767 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:28:49:768 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:28:49:769 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:28:49:769 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:28:54:776 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 18/36] sending partial result
+01-12-2018 23:28:54:777 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:28:54:778 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:28:54:778 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:28:54:779 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:28:59:788 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 19/36] sending partial result
+01-12-2018 23:28:59:788 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:28:59:789 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:28:59:789 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:28:59:790 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:29:04:797 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 20/36] sending partial result
+01-12-2018 23:29:04:798 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:29:04:799 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:29:04:799 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:29:04:800 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:29:09:809 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 21/36] sending partial result
+01-12-2018 23:29:09:810 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:29:09:810 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:29:09:811 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:29:09:812 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:29:14:817 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 22/36] sending partial result
+01-12-2018 23:29:14:818 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:29:14:819 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:29:14:820 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:29:14:821 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:29:19:834 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 23/36] sending partial result
+01-12-2018 23:29:19:836 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:29:19:837 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:29:19:837 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:29:19:838 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:29:24:846 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 24/36] sending partial result
+01-12-2018 23:29:24:847 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:29:24:848 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:29:24:849 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:29:24:850 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:29:29:861 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 25/36] sending partial result
+01-12-2018 23:29:29:863 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:29:29:864 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:29:29:864 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:29:29:865 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:29:34:871 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 26/36] sending partial result
+01-12-2018 23:29:34:872 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:29:34:873 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:29:34:873 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:29:34:874 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:29:39:885 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 27/36] sending partial result
+01-12-2018 23:29:39:886 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:29:39:887 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:29:39:888 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:29:39:888 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:29:44:895 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 28/36] sending partial result
+01-12-2018 23:29:44:896 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:29:44:897 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:29:44:897 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:29:44:898 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:29:49:906 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 29/36] sending partial result
+01-12-2018 23:29:49:908 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:29:49:908 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:29:49:908 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:29:49:909 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:29:54:919 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 30/36] sending partial result
+01-12-2018 23:29:54:920 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:29:54:921 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:29:54:921 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:29:54:922 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:29:59:929 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 31/36] sending partial result
+01-12-2018 23:29:59:930 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:29:59:931 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:29:59:931 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:29:59:932 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:30:04:940 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 32/36] sending partial result
+01-12-2018 23:30:04:941 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:30:04:942 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:30:04:942 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:30:04:942 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:30:09:947 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 33/36] sending partial result
+01-12-2018 23:30:09:948 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:30:09:949 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:30:09:950 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:30:09:950 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:30:14:962 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 34/36] sending partial result
+01-12-2018 23:30:14:966 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:30:14:966 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:30:14:967 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:30:14:968 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:30:19:979 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 35/36] sending partial result
+01-12-2018 23:30:19:980 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:30:19:981 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:30:19:982 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:30:19:982 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:30:24:991 groupXX@192.168.1.141:35003 [DEBUG] : ##### [iteration: 36/36] sending partial result
+01-12-2018 23:30:24:992 groupXX@192.168.1.141:35003 [TRACE] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:30:24:993 groupXX@192.168.1.141:35003 [TRACE] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:30:24:994 groupXX@192.168.1.141:35003 [TRACE] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:30:24:994 groupXX@192.168.1.141:35003 [TRACE] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:30:29:218 groupXX@192.168.1.141:35003 [INFO] : Server groupXX@192.168.1.141:35003 Ends Execution
+01-12-2018 23:30:33:001 groupXX@192.168.1.141:35003 [DEBUG] : {dalbrawy=[dalbrawy, Content--dalbrawy, groupXX], dujssqnw=[dujssqnw, Content--dujssqnw, groupXX], hdkaqmtp=[hdkaqmtp, Content--hdkaqmtp, groupXX]}
+01-12-2018 23:30:33:001 groupXX@192.168.1.141:35003 [DEBUG] : AddOperation [recipe=[dalbrawy, Content--dalbrawy, groupXX], timestamp=groupXX@192.168.1.141:35003:   0]
+AddOperation [recipe=[dujssqnw, Content--dujssqnw, groupXX], timestamp=groupXX@192.168.1.141:35003:   1]
+AddOperation [recipe=[hdkaqmtp, Content--hdkaqmtp, groupXX], timestamp=groupXX@192.168.1.141:35003:   2]
+
+01-12-2018 23:30:33:002 groupXX@192.168.1.141:35003 [DEBUG] : Summary: groupXX@192.168.1.141:35003:   2
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+01-12-2018 23:30:33:003 groupXX@192.168.1.141:35003 [DEBUG] : Ack: groupXX@192.168.1.141:35003 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35004 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35001 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35002 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+groupXX@192.168.1.141:35000 : groupXX@192.168.1.141:35003:   -1000
+groupXX@192.168.1.141:35004:   -1000
+groupXX@192.168.1.141:35001:   -1000
+groupXX@192.168.1.141:35002:   -1000
+groupXX@192.168.1.141:35000:   -1000
+
+
+01-12-2018 23:30:33:003 groupXX@192.168.1.141:35003 [INFO] : END

@@ -95,6 +95,9 @@ public class TSAESessionOriginatorSide extends TimerTask{
 	 * with the partner server n
 	 * @param n
 	 */
+	
+	
+	
 	private void sessionTSAE(Host n){
 		
 		int currentSessionNumber = session_number.incrementAndGet();
@@ -174,9 +177,10 @@ public class TSAESessionOriginatorSide extends TimerTask{
 				// receive message to inform about the ending of the TSAE session
 	            message = (Message) in.readObject();
 
+	            
 				if (message.type() == MsgType.END_TSAE){
 					serverData.getSummary().updateMax(partnerSummary);
-					serverData.getAck().updateMax(((MessageAErequest) message).getAck());
+					serverData.getAck().updateMax(partnerAck);
 					serverData.getLog().purgeLog(serverData.getAck());
 
 				}

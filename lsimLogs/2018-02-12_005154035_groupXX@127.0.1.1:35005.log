@@ -1,0 +1,7 @@
+02-12-2018 00:51:54:035 groupXX@127.0.1.1:35005 [INFO] : -- *** --> Server -- local node: [127.0.1.1,35005,groupXX@127.0.1.1:35005]
+02-12-2018 00:51:54:109 groupXX@127.0.1.1:35005 [INFO] : -- *** --> Server -- participants: [groupXX@127.0.1.1:35000, groupXX@127.0.1.1:35001, groupXX@127.0.1.1:35002, groupXX@127.0.1.1:35003, groupXX@127.0.1.1:35004, groupXX@127.0.1.1:35005, groupXX@127.0.1.1:35006, groupXX@127.0.1.1:35007, groupXX@127.0.1.1:35008, groupXX@127.0.1.1:35009, groupXX@127.0.1.1:35010, groupXX@127.0.1.1:35011, groupXX@127.0.1.1:35012, groupXX@127.0.1.1:35013, groupXX@127.0.1.1:35014]
+02-12-2018 00:52:58:345 groupXX@127.0.1.1:35005 [INFO] : [groupXX@127.0.1.1:35005] ADD recipe: rqgchyse
+02-12-2018 00:54:38:344 groupXX@127.0.1.1:35005 [INFO] : [groupXX@127.0.1.1:35005] ADD recipe: dbmiksxt
+02-12-2018 00:54:58:344 groupXX@127.0.1.1:35005 [INFO] : [groupXX@127.0.1.1:35005] ADD recipe: vxajagat
+02-12-2018 00:55:18:344 groupXX@127.0.1.1:35005 [INFO] : [groupXX@127.0.1.1:35005] >> Server DISCONNECTION
+02-12-2018 00:56:54:862 groupXX@127.0.1.1:35005 [INFO] : Server groupXX@127.0.1.1:35005 finishes Activity Simulation. It will stop because is not connected

@@ -1,0 +1,11 @@
+01-12-2018 23:47:03:116 groupXX@127.0.1.1:35000 [INFO] : -- *** --> Server -- local node: [127.0.1.1,35000,groupXX@127.0.1.1:35000]
+01-12-2018 23:47:03:134 groupXX@127.0.1.1:35000 [INFO] : -- *** --> Server -- participants: [groupXX@127.0.1.1:35000, groupXX@127.0.1.1:35001, groupXX@127.0.1.1:35002]
+01-12-2018 23:47:12:326 groupXX@127.0.1.1:35000 [INFO] : [groupXX@127.0.1.1:35000] ADD recipe: fccksols
+01-12-2018 23:48:12:328 groupXX@127.0.1.1:35000 [INFO] : [groupXX@127.0.1.1:35000] ADD recipe: kfbfwjdr
+01-12-2018 23:48:32:326 groupXX@127.0.1.1:35000 [INFO] : [groupXX@127.0.1.1:35000] ADD recipe: twscyrph
+01-12-2018 23:50:12:326 groupXX@127.0.1.1:35000 [INFO] : [groupXX@127.0.1.1:35000] ADD recipe: ryyctqdt
+01-12-2018 23:50:32:328 groupXX@127.0.1.1:35000 [INFO] : [groupXX@127.0.1.1:35000] REMOVE recipe: ryyctqdt
+01-12-2018 23:50:52:326 groupXX@127.0.1.1:35000 [INFO] : [groupXX@127.0.1.1:35000] ADD recipe: osiakewr
+01-12-2018 23:51:12:330 groupXX@127.0.1.1:35000 [INFO] : [groupXX@127.0.1.1:35000] ADD recipe: gkaaipgm
+01-12-2018 23:51:32:326 groupXX@127.0.1.1:35000 [INFO] : [groupXX@127.0.1.1:35000] >> Server DISCONNECTION
+01-12-2018 23:52:03:308 groupXX@127.0.1.1:35000 [INFO] : Server groupXX@127.0.1.1:35000 finishes Activity Simulation. It will stop because is not connected
